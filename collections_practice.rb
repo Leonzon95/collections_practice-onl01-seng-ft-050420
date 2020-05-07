@@ -33,7 +33,7 @@ end
 def kesha_maker(array)
   array1 =[]
   array.each do |word|
-    word[3] = "$"
+    array1 << word[3] = "$"
     end
     array1
 end
