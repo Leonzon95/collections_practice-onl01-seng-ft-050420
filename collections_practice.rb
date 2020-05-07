@@ -38,4 +38,5 @@ def kesha_maker(array)
     new_word = word_array.join
     array1 << new_word
     end
+    array1
 end
