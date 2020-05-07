@@ -39,3 +39,4 @@ def kesha_maker(array)
       array1 << word
     end
   end
+end
