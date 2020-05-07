@@ -32,11 +32,8 @@ end
 
 def kesha_maker(array)
   array1 =[]
-  array.each_with_index do |word, i|
-    if i == 2
-      array1[2] = "$"
-    else
-      array1 << word
+  array.each do |word|
+    
     end
   end
 end
