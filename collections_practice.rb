@@ -39,5 +39,8 @@ def kesha_maker(array)
     array1
 end
 
-def find_
+def find_a(array)
+  array.select do |word|
+    word.start_with?
+  
   
