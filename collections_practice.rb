@@ -23,6 +23,6 @@ def swap_elements(array)
       array1 << num
     end
   end
-    
+  array1
       
 end
