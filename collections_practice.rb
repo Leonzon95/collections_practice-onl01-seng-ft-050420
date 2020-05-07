@@ -33,7 +33,7 @@ end
 def kesha_maker(array)
   array1 =[]
   array.each do |word|
-    wo
+    
     end
   end
 end
